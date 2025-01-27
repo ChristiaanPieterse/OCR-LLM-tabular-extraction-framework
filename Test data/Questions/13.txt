@@ -1,0 +1,4 @@
+"""
+1) What is the advantages of Docker?
+2) What is the Disadvantages of VMs?
+"""

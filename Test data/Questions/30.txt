@@ -1,0 +1,4 @@
+"""
+1) What is the Major Concepts/Topics of Week 1?
+2) In what week(s) is Module 8 covered?
+"""

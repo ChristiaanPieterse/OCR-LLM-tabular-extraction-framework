@@ -1,0 +1,4 @@
+"""
+1) What is the # of trusted relations for the MF+TD method?
+2) What is the MAE Accuracy for the for the MF+T method?
+"""

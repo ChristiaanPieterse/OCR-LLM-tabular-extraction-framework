@@ -1,0 +1,4 @@
+"""
+1) What is the value for Biological control method with small eradication?
+2) Which control method has only "1" values?
+"""
