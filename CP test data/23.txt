@@ -1,4 +1,0 @@
-"""
-1) What method(s) does the Exact methods group include?
-2) What is the advantage(s) of Metaheuristic methods?
-"""

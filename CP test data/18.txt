@@ -1,4 +1,0 @@
-"""
-1) Is the Naïve baselines model univariate?
-2) Are the machine learing models invariate, multivariate, and Probabilistic?
-"""

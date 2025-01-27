@@ -1,4 +1,0 @@
-"""
-1) What is it called when both the Predicted class and Actial class is positive?
-2) What is it called when both the Predicted class is positive and Actial class is negatiive?
-"""

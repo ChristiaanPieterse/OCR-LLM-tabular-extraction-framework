@@ -1,4 +1,0 @@
-"""
-1) What is the output size of the Input layer?
-2) What is the ResNet-18 for the FC layer?
-"""

@@ -1,4 +1,0 @@
-"""
-1) What is the coordinates assoaciated with v1?
-2) What is S for v6=(6,v5)?
-"""

@@ -1,4 +1,0 @@
-"""
-1) What is the Callback type for No Callback?
-2) What configuration option corresponds to "The caller requests to be called at the specified address"?
-"""

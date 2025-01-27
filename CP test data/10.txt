@@ -1,4 +1,0 @@
-"""
-1) What is the count for the Hobbit movie?
-2) How many Entities are there in the Evaluation 1 set?
-"""

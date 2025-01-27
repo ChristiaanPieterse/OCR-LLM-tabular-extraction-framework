@@ -1,4 +1,0 @@
-"""
-1) What is the subject's token?
-2) What Protocol versions are used?
-"""

@@ -1,4 +1,0 @@
-"""
-1) What is the AETT for solution A?
-2) List the freqeuncies for routes of Solution B.
-"""

@@ -1,4 +1,0 @@
-"""
-1) What is the 1st entry under Revenue?
-2) What category does Invertory turns belong too?
-"""

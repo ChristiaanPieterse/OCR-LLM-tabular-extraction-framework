@@ -1,4 +1,0 @@
-"""
-1) What is the X1 value associated with SU(2)?
-2) What is the D value for U(1)?
-"""

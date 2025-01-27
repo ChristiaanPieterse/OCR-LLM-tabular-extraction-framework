@@ -1,4 +1,0 @@
-"""
-1) What is the T_jk value for  3 vehicles (k = 3) from i = Depot to j=3?
-2) What is the total q_j/f_j for 5 vehicles (k = 5)?
-"""

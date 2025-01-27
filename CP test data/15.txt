@@ -1,4 +1,0 @@
-"""
-1) What is the d_1 value for HOBBIES_1_001_CA_1?
-2) What is the d_1913 value for FOODS_3_824_WI_3?
-"""

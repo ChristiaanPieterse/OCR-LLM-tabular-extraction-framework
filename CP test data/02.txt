@@ -1,4 +1,0 @@
-"""
-1) What is AccessLocation's description?
-2) List the attributes.
-"""

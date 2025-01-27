@@ -1,4 +1,0 @@
-"""
-1) What is the P value in Evaluation 1 for the Baseline model?
-2) What is the F1 value in Evaluation 2 for model 3?
-"""

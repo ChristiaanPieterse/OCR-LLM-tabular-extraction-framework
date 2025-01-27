@@ -1,4 +1,0 @@
-"""
-1) What is the description of Level 12?
-2) What is the montly % zeros of the Product (level 10)?
-"""

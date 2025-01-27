@@ -1,4 +1,0 @@
-"""
-1) What is the array index of building type ID '201'?
-2) What are the two Land-use types?
-"""
