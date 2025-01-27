@@ -1,0 +1,4 @@
+"""
+1) What is is the Consumption (kg/s) for compressor 1 with running week of 1?
+2) What is the Total Consumption (kg/s)?
+"""

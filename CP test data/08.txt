@@ -1,0 +1,4 @@
+"""
+1) What is Licensing's Implementation detail?
+2) What IDE was used?
+"""

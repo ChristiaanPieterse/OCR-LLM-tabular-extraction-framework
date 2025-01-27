@@ -1,0 +1,4 @@
+"""
+1) What is the number of awards for the "Construction and Infrastructure" Vocational Pathway?
+2) What is the % of VP Awards for Service Industries?
+"""

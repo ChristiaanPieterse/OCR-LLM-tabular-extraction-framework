@@ -1,0 +1,4 @@
+"""
+1) What is the Extremal case when β (Beta) is 0.5?
+2) What β (Beta) value is associated with an extremal case of q = 1.175 M?
+"""
